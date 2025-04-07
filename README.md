@@ -7,6 +7,9 @@
 
 # languages
 - javascript (pro)
+- typescript (pro)
+- react (pro)
+- tailwind css (pro)
 - node (pro)
 
 # projects
